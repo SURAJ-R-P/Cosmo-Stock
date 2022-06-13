@@ -1,0 +1,13 @@
+.data{
+    margin-top: 10px;
+    height: 110px;
+    width: 50rem;
+    border: 1px solid black;
+    text-align: center;
+}
+table, tr{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2px;
+}
